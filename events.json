@@ -1,0 +1,32 @@
+{
+  "events": [
+    {
+      "name": "octocat/Hello-World",
+      "description": "My first repository on GitHub.",
+      "language": "HTML",
+      "stargazers": 3432,
+      "url": "https://github.com/octocat/Hello-World"
+    },
+    {
+      "name": "github/gitignore",
+      "description": "A collection of useful .gitignore templates.",
+      "language": "GitIgnore",
+      "stargazers": 89210,
+      "url": "https://github.com/github/gitignore"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "description": "A community where everyone can learn to code for free.",
+      "language": "JavaScript",
+      "stargazers": 405000,
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp"
+    },
+    {
+      "name": "microsoft/vscode",
+      "description": "Visual Studio Code source code and extension support.",
+      "language": "TypeScript",
+      "stargazers": 170000,
+      "url": "https://github.com/microsoft/vscode"
+    }
+  ]
+}
